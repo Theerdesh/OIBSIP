@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px !important;
+}
+
+.col-md-6{
+    background-color: white;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+input{
+    margin-top: 20px;
+    color:black;
+    font-size: 20 !important;
+    display: inline !important;
+    width: 85% !important;
+    border: 1px solid black !important;
+}
+
+button{
+    margin-left: 20px !important;
+}
+
+li{
+    list-style-type: none ;
+    font-size: 18px;
+    display: inline;
+    width: 75% ;
+    text-align: center;
+    margin: 20px;
+}
+
+i{
+    color: red;
+}
